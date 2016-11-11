@@ -12,3 +12,7 @@ https://github.com/dudikeleti/DumpMiner - tool for inspecting a .NET dump file o
 Windows Services
 -----------------------
 https://github.com/Topshelf/Topshelf - An easy service hosting framework for building Windows services using .NET
+
+Build Services
+-----------------------
+https://www.appveyor.com/ - Continuous Delivery service for Windows (github, visual studio online integration)
