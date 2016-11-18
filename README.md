@@ -16,3 +16,7 @@ https://github.com/Topshelf/Topshelf - An easy service hosting framework for bui
 Build Services
 -----------------------
 https://www.appveyor.com/ - Continuous Delivery service for Windows (github, visual studio online integration)
+
+Testing
+-----------------------
+https://github.com/appium/appium-dot-exe
