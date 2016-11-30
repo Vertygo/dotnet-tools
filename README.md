@@ -20,3 +20,7 @@ https://www.appveyor.com/ - Continuous Delivery service for Windows (github, vis
 Testing
 -----------------------
 https://github.com/appium/appium-dot-exe
+
+Await / Async:
+-----------------------
+https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
