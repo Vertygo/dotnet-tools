@@ -9,6 +9,12 @@ Debugging
 -----------------------
 https://github.com/dudikeleti/DumpMiner - tool for inspecting a .NET dump file or live process. The tool uses the ClrMD library. 
 
+Distributed Actors
+-----------------------
+https://github.com/AsynkronIT/protoactor-dotnet - Proto Actor - Ultra fast distributed actors for Golang and C# http://proto.actor 
+https://github.com/akkadotnet/akka.net - Port of Akka actors for .NET http://getakka.net 
+
+
 Windows Services
 -----------------------
 https://github.com/Topshelf/Topshelf - An easy service hosting framework for building Windows services using .NET
