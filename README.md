@@ -32,3 +32,7 @@ http://storyteller.github.io/ - Solutions for creating robust, human readable ac
 Await / Async:
 -----------------------
 https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
+
+Decompilation / ILASM:
+-----------------------
+https://github.com/0xd4d/dnSpy - open-source .NET assembly browser, editor, decompiler and debugger
