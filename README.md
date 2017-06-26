@@ -5,10 +5,6 @@ Setup/Installation:
 -----------------------
 https://github.com/Squirrel/Squirrel.Windows - set of tools and a library, to completely manage both installation and updating your Desktop Windows application
 
-Debugging
------------------------
-https://github.com/dudikeleti/DumpMiner - tool for inspecting a .NET dump file or live process. The tool uses the ClrMD library. 
-
 Distributed Actors
 -----------------------
 https://github.com/AsynkronIT/protoactor-dotnet - Proto Actor - Ultra fast distributed actors for Golang and C# http://proto.actor 
@@ -36,3 +32,7 @@ https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
 Decompilation / ILASM:
 -----------------------
 https://github.com/0xd4d/dnSpy - open-source .NET assembly browser, editor, decompiler and debugger
+
+Debugging
+-----------------------
+https://github.com/dudikeleti/DumpMiner - tool for inspecting a .NET dump file or live process. The tool uses the ClrMD library. 
