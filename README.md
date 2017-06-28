@@ -36,3 +36,8 @@ https://github.com/0xd4d/dnSpy - open-source .NET assembly browser, editor, deco
 Debugging
 -----------------------
 https://github.com/dudikeleti/DumpMiner - tool for inspecting a .NET dump file or live process. The tool uses the ClrMD library. 
+
+
+Document Generator
+-----------------------
+https://wyam.io/ - highly modular and extremely configurable static content generator and toolkit.
