@@ -46,5 +46,7 @@ https://wyam.io/ - highly modular and extremely configurable static content gene
 Awsome stuff
 -----------------------
 https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
+
 https://github.com/quozd/awesome-dotnet - awsome .NET
+
 https://github.com/Cybermaxs/awesome-analyzers - .NET analyzers
