@@ -41,3 +41,10 @@ https://github.com/dudikeleti/DumpMiner - tool for inspecting a .NET dump file o
 Document Generator
 -----------------------
 https://wyam.io/ - highly modular and extremely configurable static content generator and toolkit.
+
+
+Awsome stuff
+-----------------------
+https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
+https://github.com/quozd/awesome-dotnet - awsome .NET
+https://github.com/Cybermaxs/awesome-analyzers - .NET analyzers
