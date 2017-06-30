@@ -19,6 +19,10 @@ Build Services
 -----------------------
 https://www.appveyor.com/ - Continuous Delivery service for Windows (github, visual studio online integration)
 
+Build
+-----------------------
+https://github.com/KirillOsenkov/MSBuildStructuredLog - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
+
 Testing
 -----------------------
 https://github.com/appium/appium-dot-exe
