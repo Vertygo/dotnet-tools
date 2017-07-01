@@ -1,4 +1,6 @@
-# dotnet-tools
+
+
+https://github.com/heynickc/awesome-ddd# dotnet-tools
 Collection of .net tools and frameworks
 
 Setup/Installation:
@@ -54,3 +56,5 @@ https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
 https://github.com/quozd/awesome-dotnet - awsome .NET
 
 https://github.com/Cybermaxs/awesome-analyzers - .NET analyzers
+
+https://github.com/heynickc/awesome-ddd - DDD
