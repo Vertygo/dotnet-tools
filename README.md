@@ -1,6 +1,3 @@
-
-
-https://github.com/heynickc/awesome-ddd# dotnet-tools
 Collection of .net tools and frameworks
 
 Setup/Installation:
