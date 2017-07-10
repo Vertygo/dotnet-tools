@@ -45,6 +45,9 @@ Document Generator
 -----------------------
 https://wyam.io/ - highly modular and extremely configurable static content generator and toolkit.
 
+Linq / Lambda expressions
+-----------------------
+https://github.com/dbelmont/ExpressionBuilder - Lambda dynamic builder
 
 Awsome stuff
 -----------------------
