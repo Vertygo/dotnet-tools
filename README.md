@@ -49,6 +49,10 @@ Linq / Lambda expressions
 -----------------------
 https://github.com/dbelmont/ExpressionBuilder - Lambda dynamic builder
 
+AOP
+-----------------------
+https://github.com/Fody/ - Extensible tool for weaving .net assemblies                
+
 Awsome stuff
 -----------------------
 https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
