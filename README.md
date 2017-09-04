@@ -62,3 +62,7 @@ https://github.com/quozd/awesome-dotnet - awsome .NET
 https://github.com/Cybermaxs/awesome-analyzers - .NET analyzers
 
 https://github.com/heynickc/awesome-ddd - DDD
+
+Other
+-----------------------
+https://github.com/futurice/windows-app-development-best-practices - Windows App Development best practices
