@@ -49,6 +49,10 @@ Linq / Lambda expressions
 -----------------------
 https://github.com/dbelmont/ExpressionBuilder - Lambda dynamic builder
 
+XML
+-----------------------
+https://github.com/wojtpl2/ExtendedXmlSerializer
+
 AOP
 -----------------------
 https://github.com/Fody/ - Extensible tool for weaving .net assemblies                
