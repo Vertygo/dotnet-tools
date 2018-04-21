@@ -67,6 +67,8 @@ https://github.com/Cybermaxs/awesome-analyzers - .NET analyzers
 
 https://github.com/heynickc/awesome-ddd - DDD
 
+https://github.com/voltcode/awesome-dot-net-performance - Performance
+
 Other
 -----------------------
 https://github.com/futurice/windows-app-development-best-practices - Windows App Development best practices
