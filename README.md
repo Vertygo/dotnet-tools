@@ -68,7 +68,7 @@ https://github.com/ironcev/awesome-roslyn - .NET analyzers
 
 https://github.com/heynickc/awesome-ddd - DDD
 
-https://github.com/voltcode/awesome-dot-net-performance - Performance
+https://github.com/adamsitnik/awesome-dot-net-performance - Performance
 
 Other
 -----------------------
