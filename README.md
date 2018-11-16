@@ -55,7 +55,11 @@ https://github.com/wojtpl2/ExtendedXmlSerializer
 
 AOP
 -----------------------
-https://github.com/Fody/ - Extensible tool for weaving .net assemblies                
+https://github.com/Fody/ - Extensible tool for weaving .net assemblies
+
+Console App
+-----------------------
+https://github.com/rebus-org/Tababular/ - 📃 Simple monospace text table formatting
 
 Awsome stuff
 -----------------------
