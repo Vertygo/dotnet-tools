@@ -76,4 +76,5 @@ https://github.com/adamsitnik/awesome-dot-net-performance - Performance
 
 Other
 -----------------------
+https://github.com/charlax/professional-programming - A collection of full-stack resources for programmers
 https://github.com/futurice/windows-app-development-best-practices - Windows App Development best practices
