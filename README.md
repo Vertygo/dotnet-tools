@@ -68,11 +68,14 @@ https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
 https://github.com/quozd/awesome-dotnet - awsome .NET
 
 https://github.com/Cybermaxs/awesome-analyzers - .NET analyzers
+
 https://github.com/ironcev/awesome-roslyn - .NET analyzers
 
 https://github.com/heynickc/awesome-ddd - DDD
 
 https://github.com/adamsitnik/awesome-dot-net-performance - Performance
+
+https://github.com/binhnguyennus/awesome-scalability - Scalability
 
 Other
 -----------------------
