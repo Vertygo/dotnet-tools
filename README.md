@@ -77,6 +77,8 @@ https://github.com/adamsitnik/awesome-dot-net-performance - Performance
 
 https://github.com/binhnguyennus/awesome-scalability - Scalability
 
+https://github.com/JanVanRyswyck/awesome-talks - Talks
+
 Other
 -----------------------
 https://github.com/charlax/professional-programming - A collection of full-stack resources for programmers
