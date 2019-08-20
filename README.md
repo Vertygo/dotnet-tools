@@ -79,6 +79,10 @@ https://github.com/binhnguyennus/awesome-scalability - Scalability
 
 https://github.com/JanVanRyswyck/awesome-talks - Talks
 
+Interviews
+-----------------------
+https://github.com/yangshun/tech-interview-handbook - Materials to help you rock your next coding interview
+
 Other
 -----------------------
 https://github.com/charlax/professional-programming - A collection of full-stack resources for programmers
