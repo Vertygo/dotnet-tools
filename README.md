@@ -49,6 +49,10 @@ Linq / Lambda expressions
 -----------------------
 https://github.com/dbelmont/ExpressionBuilder - Lambda dynamic builder
 
+Multi-Tenancy
+-----------------------
+https://www.finbuckle.com/MultiTenant - A multitenancy library for ASP.NET Core
+
 XML
 -----------------------
 https://github.com/wojtpl2/ExtendedXmlSerializer
