@@ -65,6 +65,8 @@ Console App
 -----------------------
 https://github.com/rebus-org/Tababular/ - 📃 Simple monospace text table formatting
 
+https://github.com/drewnoakes/figgle - ASCII banner generation for .NET
+
 Awsome stuff
 -----------------------
 https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
