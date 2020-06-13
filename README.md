@@ -79,6 +79,8 @@ https://github.com/ironcev/awesome-roslyn - .NET analyzers
 
 https://github.com/heynickc/awesome-ddd - DDD
 
+https://github.com/thangchung/clean-code-dotnet - clean code recepies .NET
+
 https://github.com/adamsitnik/awesome-dot-net-performance - Performance
 
 https://github.com/binhnguyennus/awesome-scalability - Scalability
