@@ -22,6 +22,10 @@ Build
 -----------------------
 https://github.com/KirillOsenkov/MSBuildStructuredLog - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
 
+DI/IOC
+-----------------------
+https://github.com/khellang/Scrutor - Register services using assembly scanning and a fluent API
+
 Testing
 -----------------------
 https://github.com/appium/appium-dot-exe
