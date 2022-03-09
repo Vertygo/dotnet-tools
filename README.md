@@ -32,6 +32,10 @@ https://github.com/appium/appium-dot-exe
 
 http://storyteller.github.io/ - Solutions for creating robust, human readable acceptance tests for your .Net or CoreCLR system and a means to create "living" technical documentation.
 
+https://github.com/TNG/ArchUnitNET - testing software architecture rules
+
+https://github.com/BenMorris/NetArchTest - testing software architecture rules
+
 Await / Async:
 -----------------------
 https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
