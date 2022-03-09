@@ -75,6 +75,8 @@ https://github.com/rebus-org/Tababular/ - 📃 Simple monospace text table forma
 
 https://github.com/drewnoakes/figgle - ASCII banner generation for .NET
 
+https://github.com/spectreconsole/spectre.console - create beautiful console apps
+
 Awsome stuff
 -----------------------
 https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
