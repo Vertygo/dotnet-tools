@@ -99,6 +99,8 @@ https://github.com/JanVanRyswyck/awesome-talks - Talks
 
 https://github.com/amis92/csharp-source-generators Source generators
 
+https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET - List of testing tools
+
 Interviews
 -----------------------
 https://github.com/yangshun/tech-interview-handbook - Materials to help you rock your next coding interview
