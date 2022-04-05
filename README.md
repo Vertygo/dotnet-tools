@@ -36,6 +36,10 @@ https://github.com/TNG/ArchUnitNET - testing software architecture rules
 
 https://github.com/BenMorris/NetArchTest - testing software architecture rules
 
+Automappers
+----------------------
+https://github.com/MapsterMapper/Mapster - A fast, fun and stimulating object to object Mapper
+
 Await / Async:
 -----------------------
 https://github.com/StephenCleary/AsyncEx - A helper library for async/await.
