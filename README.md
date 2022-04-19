@@ -9,7 +9,6 @@ Distributed Actors
 https://github.com/AsynkronIT/protoactor-dotnet - Proto Actor - Ultra fast distributed actors for Golang and C# http://proto.actor 
 https://github.com/akkadotnet/akka.net - Port of Akka actors for .NET http://getakka.net 
 
-
 Windows Services
 -----------------------
 https://github.com/Topshelf/Topshelf - An easy service hosting framework for building Windows services using .NET
@@ -35,6 +34,10 @@ http://storyteller.github.io/ - Solutions for creating robust, human readable ac
 https://github.com/TNG/ArchUnitNET - testing software architecture rules
 
 https://github.com/BenMorris/NetArchTest - testing software architecture rules
+
+Micro frontends
+----------------------
+https://github.com/smapiot/piral - Framework for next generation portals and web apps using micro frontends
 
 Automappers
 ----------------------
