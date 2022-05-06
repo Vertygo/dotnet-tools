@@ -86,6 +86,10 @@ https://github.com/spectreconsole/spectre.console - create beautiful console app
 
 https://github.com/migueldeicaza/gui.cs - Console-based user interface toolkit for .NET applications
 
+CLI
+-----------------------
+https://github.com/Tyrrrz/CliWrap - Library for running command line processes
+
 Awsome stuff
 -----------------------
 https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
