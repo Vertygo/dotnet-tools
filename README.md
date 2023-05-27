@@ -90,6 +90,11 @@ CLI
 -----------------------
 https://github.com/Tyrrrz/CliWrap - Library for running command line processes
 
+Rest
+-----------------------
+https://github.com/reactiveui/refit - automatic type-safe REST library for .NET Core
+
+
 Awsome stuff
 -----------------------
 https://github.com/thangchung/awesome-dotnet-core - awsome .NET Core
@@ -113,6 +118,7 @@ https://github.com/JanVanRyswyck/awesome-talks - Talks
 https://github.com/amis92/csharp-source-generators Source generators
 
 https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET - List of testing tools
+
 
 Interviews
 -----------------------
