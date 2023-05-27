@@ -94,6 +94,10 @@ Rest
 -----------------------
 https://github.com/reactiveui/refit - automatic type-safe REST library for .NET Core
 
+WebSocket
+-----------------------
+https://github.com/sta/websocket-sharp
+
 
 Awsome stuff
 -----------------------
