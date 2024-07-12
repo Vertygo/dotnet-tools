@@ -123,6 +123,10 @@ https://github.com/amis92/csharp-source-generators Source generators
 
 https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET - List of testing tools
 
+Free tier SaaS
+-----------------------
+https://xata.io/ Serverless Postgres
+
 
 Interviews
 -----------------------
